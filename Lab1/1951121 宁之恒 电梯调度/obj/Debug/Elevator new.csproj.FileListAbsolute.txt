@@ -1,0 +1,22 @@
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\Elevator new.exe.config
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\Elevator new.exe
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\Elevator new.pdb
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator_new.Form1.resources
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator_new.Form2.resources
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator_new.Properties.Resources.resources
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.csproj.GenerateResource.cache
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.csproj.CoreCompileInputs.cache
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.exe
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.pdb
+E:\课程\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.csproj.AssemblyReference.cache
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\Elevator new.exe.config
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\Elevator new.exe
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\Elevator new.pdb
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\bin\Debug\System.Collections.NonGeneric.dll
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.csprojResolveAssemblyReference.cache
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator_new.Form1.resources
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator_new.Form2.resources
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator_new.Properties.Resources.resources
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.csproj.GenerateResource.Cache
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.exe
+E:\课程\大二下\操作系统\1951121 宁之恒 第一次作业\1951121 宁之恒 电梯调度\obj\Debug\Elevator new.pdb
